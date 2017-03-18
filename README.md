@@ -1,6 +1,6 @@
 使用方法如下：
-<script src="js/jquery-1.11.0.min.js"></script>
-<script src="js/slide.js"></script>
+<script src="js/jquery-1.11.0.min.js"></script><br>
+<script src="js/slide.js"></script><br>
 <script src="js/zoom.js"></script>
 <script type="text/javascript">
 	$(window).load(function() {
